@@ -41,3 +41,5 @@ npm install
 ```bash
 node index
 ```
+
+# Note: Android system may kill the termux app after some and the bot will go offline to Prevent this Click the acquire wakelock button in the Notifications Panel
