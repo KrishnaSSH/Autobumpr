@@ -1,5 +1,5 @@
 # Autobumpr
-A Selfbot based on discord.js-selfbot v13 which automatically bumps the discord server
+A Selfbot based on discord.js-selfbot-v13 which automatically bumps the discord server
 
 
 ## Instructions to Host on Mobile 
