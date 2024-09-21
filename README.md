@@ -1,6 +1,8 @@
 # Autobumpr
 A Selfbot based on discord.js-selfbot-v13 which automatically bumps the discord server
 
+[Join the Discord Server For Help!](https://discord.gg/cq5R2fF8sZ)
+==========================================
 
 ## Instructions to Host on Mobile 
 
@@ -43,3 +45,6 @@ node index
 ```
 
 ### Note: Android system may kill the termux app after some and the bot will go offline to Prevent this Click the acquire wakelock button in the Notifications Panel
+
+
+
