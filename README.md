@@ -25,6 +25,12 @@ cp .env.example .env
 nano .env
 ```
 * Add the Discord Userbot Token and the Channel ID in the .env file
+The format will be this
+```env
+TOKEN="Userbot Token"
+BUMP_CHANNEL="Channel ID "
+```
+
 * There will be a Ctrl key on top of Your Keyboard Press that then press O on your keyboard and then hit enter
 * Then Press Ctrl again and Press X on your Keyboard and hit enter
 * Now follow these Commands
