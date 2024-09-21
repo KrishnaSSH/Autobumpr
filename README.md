@@ -13,12 +13,6 @@ pkg update && pkg upgrade -y
 pkg i git nodejs -y
 ```
 ```bash
-cd /
-```
-```bash
-cd storage/emulated/0
-```
-```bash
 git clone https://github.com/KrishnaSSH/Autobumpr
 ```
 ```bash
