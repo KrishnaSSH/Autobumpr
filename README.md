@@ -1,8 +1,7 @@
-# Autobumpr
-A Selfbot based on discord.js-selfbot-v13 which automatically bumps the discord server
+# Depricated and no longer maintained
+this project has been depricated switch to https://github.com/KrishnaSSH/autobumper
 
-[Join the Discord Server For Help!](https://discord.gg/cq5R2fF8sZ)
-==========================================
+
 
 ## Instructions to Host on Mobile 
 
